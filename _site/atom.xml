@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>BGI Cancer Research</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-05-03T16:06:52+08:00</updated>
- <id>http://username.github.io</id>
+ <link href="http://username.github.io//" rel="self"/>
+ <link href="http://username.github.io/"/>
+ <updated>2014-05-03T18:44:30+08:00</updated>
+ <id>http://username.github.io/</id>
  <author>
    <name>bigcr</name>
    <email>bigcr@email.test</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Activating Hotspot L205R Mutation in PRKACA and Adrenal Cushing's Syndrome</title>
-   <link href="http://username.github.io/2014/04/03/Activatin-Hotspot-L205R-Mutation-in-PRKACA-and-Adrenal-Cushing-Syndrome"/>
+   <link href="http://username.github.io//2014/04/03/Activatin-Hotspot-L205R-Mutation-in-PRKACA-and-Adrenal-Cushing-Syndrome"/>
    <updated>2014-04-03T00:00:00+08:00</updated>
-   <id>http://username.github.io/2014/04/03/Activatin-Hotspot-L205R-Mutation-in-PRKACA-and-Adrenal-Cushing-Syndrome</id>
+   <id>http://username.github.io//2014/04/03/Activatin-Hotspot-L205R-Mutation-in-PRKACA-and-Adrenal-Cushing-Syndrome</id>
    <content type="html">&lt;p&gt;Science DOI: 10.1126/science.1249480&lt;/p&gt;
 
 &lt;h5 id='yanan_caominghui_hezhibo_gaoying_pengyanli_lilin_liweiwei_zhouxiangchun_lixu_zhongyiming_leitingwei_suhang_wangyiran_jianglin_yangwei_weixu_yangxiuli_jiangli_liujuan_hejunna_yeqing_weiyingrui_liweiqing_wangjun_wangguang_ning'&gt;Yanan Cao,Minghui He,Zhibo Gao,Ying Peng,Yanli Li,Lin Li,Weiwei Zhou,Xiangchun Li,Xu Zhong,Yiming Lei,Tingwei Su,Hang Wang,Yiran Jiang,Lin Yang,Wei Wei,Xu Yang,Xiuli Jiang,Li Liu,Juan He,Junna Ye,Qing Wei,Yingrui Li,Weiqing Wang,Jun Wang,Guang Ning,&lt;/h5&gt;
@@ -27,9 +27,9 @@
  
  <entry>
    <title>HuangXuanlin</title>
-   <link href="http://username.github.io/Group2/2014/03/27/huangxuanlin"/>
+   <link href="http://username.github.io//Group2/2014/03/27/huangxuanlin"/>
    <updated>2014-03-27T00:00:00+08:00</updated>
-   <id>http://username.github.io/Group2/2014/03/27/huangxuanlin</id>
+   <id>http://username.github.io//Group2/2014/03/27/huangxuanlin</id>
    <content type="html">&lt;p&gt;HuangXuanlin received his bachelor’s degree of from Huazhong University of Science and Technology in 2010, joined BGI since 2012.7, and now, a core member of the cancer group at medical research department of BGI Tech.&lt;/p&gt;
 
 &lt;p&gt;Xuanlin are now participating in genome research of esophageal squamous carcinoma, insulinomas and multiple endocrine neoplasia.&lt;/p&gt;
@@ -49,9 +49,9 @@ Cao, Yanan, et al. &quot;Whole exome sequencing of insulinoma reveals recurrent 
  
  <entry>
    <title>WuQian</title>
-   <link href="http://username.github.io/Group2/2014/03/21/wuqian"/>
+   <link href="http://username.github.io//Group2/2014/03/21/wuqian"/>
    <updated>2014-03-21T00:00:00+08:00</updated>
-   <id>http://username.github.io/Group2/2014/03/21/wuqian</id>
+   <id>http://username.github.io//Group2/2014/03/21/wuqian</id>
    <content type="html">&lt;img src='/assets/images/resume/wuqian.jpeg' style='float:left;width:120px;height:180px' /&gt;
 &lt;p&gt;Wu Qian works on cancer genome analysis at BGI Shenzhen. Qian&amp;#8217;s work is mainly based on bioinformatics methods, including but not limited to the following aspects:&lt;/p&gt;
 
@@ -66,9 +66,9 @@ Cao, Yanan, et al. &quot;Whole exome sequencing of insulinoma reveals recurrent 
  
  <entry>
    <title>YangXiao</title>
-   <link href="http://username.github.io/Group2/2014/03/20/yangxiao"/>
+   <link href="http://username.github.io//Group2/2014/03/20/yangxiao"/>
    <updated>2014-03-20T00:00:00+08:00</updated>
-   <id>http://username.github.io/Group2/2014/03/20/yangxiao</id>
+   <id>http://username.github.io//Group2/2014/03/20/yangxiao</id>
    <content type="html">&lt;p&gt;Xiao Yang is the member of the team, he now develop the csap pipeline and Algorithm research.&lt;/p&gt;
 
 &lt;p&gt;Yang received his B.A in automation in 2007 from the university of electronic science and technology of china&lt;/p&gt;</content>
@@ -76,9 +76,9 @@ Cao, Yanan, et al. &quot;Whole exome sequencing of insulinoma reveals recurrent 
  
  <entry>
    <title>HuangPeiDe</title>
-   <link href="http://username.github.io/Group2/2014/03/19/huangpeide"/>
+   <link href="http://username.github.io//Group2/2014/03/19/huangpeide"/>
    <updated>2014-03-19T00:00:00+08:00</updated>
-   <id>http://username.github.io/Group2/2014/03/19/huangpeide</id>
+   <id>http://username.github.io//Group2/2014/03/19/huangpeide</id>
    <content type="html">&lt;img src='/assets/images/resume/huangpeide.jpg' style='float:left;width:120px;height:180px' /&gt;
 &lt;p&gt;Name: Peide Huang Sex: Male &lt;br /&gt;Age: 29 &lt;br /&gt;Native place: Guangdong, China TEL：(086)151-1883-9736&lt;br /&gt;Email: huangpeide1984@gmail.com Contact address: 11th Building, Bei Shan Industrial Zone, Yantian District,Shenzhen,China&lt;/p&gt;
 
@@ -141,9 +141,9 @@ Guo, Guangwu, et al. &quot;Whole-genome and whole-exome sequencing of bladder ca
  
  <entry>
    <title>LiLin</title>
-   <link href="http://username.github.io/Group2/2014/03/18/lilin"/>
+   <link href="http://username.github.io//Group2/2014/03/18/lilin"/>
    <updated>2014-03-18T00:00:00+08:00</updated>
-   <id>http://username.github.io/Group2/2014/03/18/lilin</id>
+   <id>http://username.github.io//Group2/2014/03/18/lilin</id>
    <content type="html">&lt;img src='/assets/images/resume/lilin.jpeg' style='float:left;width:150px;height:180px' /&gt;
 &lt;p&gt;Lin Li as a senior project manager at medical research department of BGI Tech. Lin’s current interest is to improve Cancer Sequencing Analysis Pipeline(CSAP) and develop Cancer Genome Interpretation Pipeline(CGIP). CSAP is a pipeline fully describing the genomic events in tumor and normal samples coming from a patient, including somatic variants detecting, purity estimating for NGS data. However, CGIP is a pipeline to analysis the characterization data based on cohort patients, including significant mutated genes(SMG), pathway enrichment, mutation spectrum analysis, mutation exclusive.&lt;/p&gt;
 
@@ -181,9 +181,9 @@ Cao, Yanan, et al. &quot;Activating Hotspot L205R Mutation in PRKACA and Adrenal
  
  <entry>
    <title>Identification of genomic alterations in oesophageal squamous cell cancer</title>
-   <link href="http://username.github.io/2014/03/16/Identification-of-genomic-alterations-in-oesophageal-squamous-cell-cancer"/>
+   <link href="http://username.github.io//2014/03/16/Identification-of-genomic-alterations-in-oesophageal-squamous-cell-cancer"/>
    <updated>2014-03-16T00:00:00+08:00</updated>
-   <id>http://username.github.io/2014/03/16/Identification-of-genomic-alterations-in-oesophageal-squamous-cell-cancer</id>
+   <id>http://username.github.io//2014/03/16/Identification-of-genomic-alterations-in-oesophageal-squamous-cell-cancer</id>
    <content type="html">&lt;p&gt;doi:10.1038/nature13176&lt;/p&gt;
 
 &lt;h5 id='yongmei_song_lin_li_yunwei_ou_zhibo_gao_enmin_li_xiangchun_li_weimin_zhang_jiaqian_wang_liyan_xuyong_zhou_xiaojuan_ma_lingyan_liu_zitong_zhao_xuanlin_huang_jing_fan_lijia_dong_gang_chen_liying_ma_jie_yang_longyun_chen_minghui_he_miao_li_xuehan_zhuang_kai_huang_kunlong_qiu_guangliang_yin_guangwu_guo_qiang_feng_peishan_chen_zhiyong_wu_jianyi_wu_ling_ma_jinyang_zhao_longhai_luo_ming_fu_bainan_xu_bo_chenyingrui_li_tong_tong_mingrong_wang_zhihua_liu_dongxin_lin_xiuqing_zhang_huanming_yang_jun_wang__qimin_zhan'&gt;Yongmei Song, Lin Li, Yunwei Ou, Zhibo Gao, Enmin Li, Xiangchun Li, Weimin Zhang, Jiaqian Wang, Liyan Xu,Yong Zhou, Xiaojuan Ma, Lingyan Liu, Zitong Zhao, Xuanlin Huang, Jing Fan, Lijia Dong, Gang Chen, Liying Ma, Jie Yang, Longyun Chen, Minghui He, Miao Li, Xuehan Zhuang, Kai Huang, Kunlong Qiu, Guangliang Yin, Guangwu Guo, Qiang Feng, Peishan Chen, Zhiyong Wu, Jianyi Wu, Ling Ma, Jinyang Zhao, Longhai Luo, Ming Fu, Bainan Xu, Bo Chen,Yingrui Li, Tong Tong, Mingrong Wang, Zhihua Liu, Dongxin Lin, Xiuqing Zhang, Huanming Yang, Jun Wang &amp;amp; Qimin Zhan&lt;/h5&gt;
@@ -194,9 +194,9 @@ Cao, Yanan, et al. &quot;Activating Hotspot L205R Mutation in PRKACA and Adrenal
  
  <entry>
    <title>Identification of somatic alterations in stage I lung adenocarcinomas by next‐generation sequencing</title>
-   <link href="http://username.github.io/2014/01/22/Identification-of-somatic-alterations-in-stage-I-lung-adenocarcinomas-by-next-generation-sequencing"/>
+   <link href="http://username.github.io//2014/01/22/Identification-of-somatic-alterations-in-stage-I-lung-adenocarcinomas-by-next-generation-sequencing"/>
    <updated>2014-01-22T00:00:00+08:00</updated>
-   <id>http://username.github.io/2014/01/22/Identification-of-somatic-alterations-in-stage-I-lung-adenocarcinomas-by-next-generation-sequencing</id>
+   <id>http://username.github.io//2014/01/22/Identification-of-somatic-alterations-in-stage-I-lung-adenocarcinomas-by-next-generation-sequencing</id>
    <content type="html">&lt;p&gt;doi:10.1002/gcc.22138&lt;/p&gt;
 
 &lt;h5 id='yuda_zhaojie_yangzhaoli_chenzhibo_gaofang_zhouxiangchun_lijiagen_lisusheng_shixiaoli_fengnan_sunran_yaochengcheng_zhousheng_changmiao_liyong_zhoulin_lixiuqing_zhangjie_he'&gt;Yuda Zhao,Jie Yang,Zhaoli Chen,Zhibo Gao,Fang Zhou,Xiangchun Li,Jiagen Li,Susheng Shi,Xiaoli Feng,Nan Sun,Ran Yao,Chengcheng Zhou,Sheng Chang,Miao Li,Yong Zhou,Lin Li,Xiuqing Zhang,Jie He&lt;/h5&gt;
@@ -207,9 +207,9 @@ Cao, Yanan, et al. &quot;Activating Hotspot L205R Mutation in PRKACA and Adrenal
  
  <entry>
    <title>Whole exome sequencing of insulinoma reveals recurrent T372R mutations in YY1</title>
-   <link href="http://username.github.io/2013/12/10/Whole-exome-sequencing-of-insulinoma-reveals-recurrent-T372R-mutations-in-YY1"/>
+   <link href="http://username.github.io//2013/12/10/Whole-exome-sequencing-of-insulinoma-reveals-recurrent-T372R-mutations-in-YY1"/>
    <updated>2013-12-10T00:00:00+08:00</updated>
-   <id>http://username.github.io/2013/12/10/Whole-exome-sequencing-of-insulinoma-reveals-recurrent-T372R-mutations-in-YY1</id>
+   <id>http://username.github.io//2013/12/10/Whole-exome-sequencing-of-insulinoma-reveals-recurrent-T372R-mutations-in-YY1</id>
    <content type="html">&lt;p&gt;doi:10.1038/ncomms3810&lt;/p&gt;
 
 &lt;p&gt;Yanan Cao,Zhibo Gao,Lin Li,Xiuli Jiang,Aijing Shan,Jie Cai,Ying Peng,Yanli Li,Xiaohua Jiang,Xuanlin Huang,Jiaqian Wang,Qing Wei,Guijun Qin,Jiajun Zhao,Xiaolong Jin,Li Liu,Yingrui Li,Weiqing Wang,Jun Wang,Guang Ning&lt;/p&gt;
@@ -220,9 +220,9 @@ Cao, Yanan, et al. &quot;Activating Hotspot L205R Mutation in PRKACA and Adrenal
  
  <entry>
    <title>Whole-genome and whole-exome sequencing of bladder cancer identifies frequent alterations in genes involved in sister chromatid cohesion and segregation</title>
-   <link href="http://username.github.io/2013/10/13/Whole-genome-and-whole-exome-sequencing-of-bladder-cancer-identifies-frequent-alterations-in-genes-involved-in-sister-chromatid-cohesion-and-segregation"/>
+   <link href="http://username.github.io//2013/10/13/Whole-genome-and-whole-exome-sequencing-of-bladder-cancer-identifies-frequent-alterations-in-genes-involved-in-sister-chromatid-cohesion-and-segregation"/>
    <updated>2013-10-13T00:00:00+08:00</updated>
-   <id>http://username.github.io/2013/10/13/Whole-genome-and-whole-exome-sequencing-of-bladder-cancer-identifies-frequent-alterations-in-genes-involved-in-sister-chromatid-cohesion-and-segregation</id>
+   <id>http://username.github.io//2013/10/13/Whole-genome-and-whole-exome-sequencing-of-bladder-cancer-identifies-frequent-alterations-in-genes-involved-in-sister-chromatid-cohesion-and-segregation</id>
    <content type="html">&lt;p&gt;doi:10.1038/ng.2798&lt;/p&gt;
 
 &lt;h5 id='guangwu_guoxiaojuan_sunchao_chensong_wupeide_huangzesong_limichael_deanyi_huangwenlong_jiaquan_zhouaifa_tangzuoquan_yangxianxin_lipengfei_songxiaokun_zhaorui_yeshiqiang_zhangzhao_linmingfu_qishengqing_wanliangfu_xiefan_fanmichael_l_nickersonxiangjun_zouxueda_huli_xingzhaojie_lvhongbin_meishengjie_gaochaozhao_liangzhibo_gaojingxiao_luyuan_yuchunxiao_liulin_lixiaodong_fangzhimao_jiangjie_yangcailing_lixin_zhaojing_chenfang_zhangyongqi_laizheguang_linfangjian_zhouhao_chenhsiao_chang_chanshirley_tsangdan_theodorescuyingrui_lixiuqing_zhangjian_wanghuanming_yangyaoting_guijun_wangzhiming_cai'&gt;Guangwu Guo,Xiaojuan Sun,Chao Chen,Song Wu,Peide Huang,Zesong Li,Michael Dean,Yi Huang,Wenlong Jia,Quan Zhou,Aifa Tang,Zuoquan Yang,Xianxin Li,Pengfei Song,Xiaokun Zhao,Rui Ye,Shiqiang Zhang,Zhao Lin,Mingfu Qi,Shengqing Wan,Liangfu Xie,Fan Fan,Michael L Nickerson,Xiangjun Zou,Xueda Hu,Li Xing,Zhaojie Lv,Hongbin Mei,Shengjie Gao,Chaozhao Liang,Zhibo Gao,Jingxiao Lu,Yuan Yu,Chunxiao Liu,Lin Li,Xiaodong Fang,Zhimao Jiang,Jie Yang,Cailing Li,Xin Zhao,Jing Chen,Fang Zhang,Yongqi Lai,Zheguang Lin,Fangjian Zhou,Hao Chen,Hsiao Chang Chan,Shirley Tsang,Dan Theodorescu,Yingrui Li,Xiuqing Zhang,Jian Wang,Huanming Yang,Yaoting Gui,Jun Wang,Zhiming Cai&lt;/h5&gt;
@@ -233,9 +233,9 @@ Cao, Yanan, et al. &quot;Activating Hotspot L205R Mutation in PRKACA and Adrenal
  
  <entry>
    <title>Whole genome sequencing identifies recurrent mutations in hepatocellular carcinoma</title>
-   <link href="http://username.github.io/2013/06/17/Whole-genome-sequencing-identifies-recurrent-mutations-in-hepatocellular-carcinoma"/>
+   <link href="http://username.github.io//2013/06/17/Whole-genome-sequencing-identifies-recurrent-mutations-in-hepatocellular-carcinoma"/>
    <updated>2013-06-17T00:00:00+08:00</updated>
-   <id>http://username.github.io/2013/06/17/Whole-genome-sequencing-identifies-recurrent-mutations-in-hepatocellular-carcinoma</id>
+   <id>http://username.github.io//2013/06/17/Whole-genome-sequencing-identifies-recurrent-mutations-in-hepatocellular-carcinoma</id>
    <content type="html">&lt;p&gt;doi: 10.1101/gr.154492.113&lt;/p&gt;
 
 &lt;h5 id='zhengyan_kanhancheng_zhengxiao_liushuyu_lithomas_barberzhuolin_gonghuan_gaoke_haomelinda_d_willardjiangchun_xurobert_hauptscheinpaul_a_rejtojulio_fernandezguan_wangqinghui_zhangbo_wangronghua_chenjian_wangnikki_p_leewei_zhouzhao_linzhiyu_pengkang_yishengpei_chenlin_lixiaomei_fanjie_yangrui_yejia_jukai_wangheather_estrellashibing_dengping_weiming_qiuisabella_h_wulurjiangang_liumariam_e_ehsanichunsheng_zhangandrey_lobodawing_kin_sungamit_aggarwalronnie_t_poonsheung_tat_fanjames_hardwickjun_wangchristoph_reinhardhongyue_daiyingrui_lijohn_m_lukmao_mao'&gt;Zhengyan Kan,Hancheng Zheng,Xiao Liu,Shuyu Li,Thomas Barber,Zhuolin Gong,Huan Gao,Ke Hao,Melinda D Willard,Jiangchun Xu,Robert Hauptschein,Paul A Rejto,Julio Fernandez,Guan Wang,Qinghui Zhang,Bo Wang,Ronghua Chen,Jian Wang,Nikki P Lee,Wei Zhou,Zhao Lin,Zhiyu Peng,Kang Yi,Shengpei Chen,Lin Li,Xiaomei Fan,Jie Yang,Rui Ye,Jia Ju,Kai Wang,Heather Estrella,Shibing Deng,Ping Wei,Ming Qiu,Isabella H Wulur,Jiangang Liu,Mariam E Ehsani,Chunsheng Zhang,Andrey Loboda,Wing Kin Sung,Amit Aggarwal,Ronnie T Poon,Sheung Tat Fan,James Hardwick,Jun Wang,Christoph Reinhard,Hongyue Dai,Yingrui Li,John M Luk,Mao Mao&lt;/h5&gt;
